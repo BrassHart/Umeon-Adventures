@@ -1,0 +1,100 @@
+{
+	"type": "note_list",
+	"version": 4,
+	"rows": [
+		{
+			"id": "3c8bcc6b-607b-460c-b537-c73b11e8a465",
+			"type": "note_container",
+			"open": true,
+			"children": [
+				{
+					"id": "64289a89-85f6-499e-b901-7791fb362b29",
+					"type": "note_container",
+					"open": true,
+					"children": [
+						{
+							"id": "3e426015-d4e1-4401-9651-65c47adfd168",
+							"type": "note",
+							"text": "Trait: Magery 0",
+							"reference": "B66"
+						},
+						{
+							"id": "d9799e16-3c68-4056-85d1-0bc3adc2c3d9",
+							"type": "note",
+							"text": "Skill: Mathematics (Applied)",
+							"reference": "B207"
+						},
+						{
+							"id": "228e328f-6fcf-4049-842a-35f88005c93d",
+							"type": "note",
+							"text": "Skill: Mechanic (Clockwork)",
+							"reference": "B207"
+						}
+					],
+					"text": "* Required"
+				},
+				{
+					"id": "856d0f80-fe03-4b41-a6dc-ae5525a988f7",
+					"type": "note_container",
+					"open": true,
+					"children": [
+						{
+							"id": "3e3160e5-7cf1-4a20-9305-3adc2dedec4e",
+							"type": "note",
+							"text": "Skill: Engineer (Clockwork)",
+							"reference": "B190"
+						},
+						{
+							"id": "ea156d16-3a2f-416f-a03d-4e4c537ac225",
+							"type": "note",
+							"text": "Skill: Engineer (Arcane)",
+							"reference": "B190"
+						}
+					],
+					"text": "* Pick One"
+				}
+			],
+			"text": "Arcane Engineering"
+		},
+		{
+			"id": "c68230d1-6914-43b7-9e38-94c67f1c53fb",
+			"type": "note_container",
+			"open": true,
+			"children": [
+				{
+					"id": "bd25fb2f-9e5d-426e-a64e-5eea75b0346c",
+					"type": "note_container",
+					"open": true,
+					"children": [
+						{
+							"id": "5d931c2f-20ee-4f94-b7d1-249e0a4da802",
+							"type": "note",
+							"text": "Trait: Magery 0",
+							"reference": "B66"
+						},
+						{
+							"id": "3d92ac85-123c-4816-b41d-5dd787c7cc34",
+							"type": "note",
+							"text": "Skill: Mathematics (Applied)",
+							"reference": "B207"
+						},
+						{
+							"id": "4f33118a-4e2d-4e54-b226-1d0dfb401029",
+							"type": "note",
+							"text": "Skill: Engineer (Arcane)",
+							"reference": "B190"
+						},
+						{
+							"id": "77a99b17-33f2-496b-886e-789db030e73e",
+							"type": "note",
+							"text": "Skill: Jeweler",
+							"reference": "B203"
+						}
+					],
+					"text": "* Required"
+				}
+			],
+			"text": "Spellcraft"
+		}
+	]
+}
